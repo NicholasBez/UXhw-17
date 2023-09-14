@@ -1,0 +1,42 @@
+
+
+ul {
+    color: red;
+}
+
+p {
+    font-size: 20px;
+}
+
+.logo {
+    background-color: darkblue;
+}
+
+
+.skills-heading {
+    text-align: center;
+}
+
+.skills {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    text-align: center;
+    margin: 2rem;
+    border: 2px solid;
+    
+}
+
+.skill1, .skill2, .skill3 {
+    margin: 2rem;
+    border: 2px solid;
+}
+
+.skill1 img, .skill2 img, .skill3 img {
+    margin: 2rem;
+    max-width: 300px;
+    max-height: 100px;
+
+    
+}
+
